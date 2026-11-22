@@ -19,9 +19,9 @@ Busco seguir aprendiendo y mejorando día a día.
 
 ## Tecnologías
 
-**Lenguajes:** Java · Python · Go · JavaScript · TypeScript · C · C++ · C#
-**Frontend:** React · Angular · Ionic · HTML/CSS
-**Backend:** Node.js · Express · FastAPI
-**Datos:** MySQL · MongoDB · SQL
-**Cloud y DevOps:** Docker · Kubernetes · ArgoCD · Terraform · AWS · GCP · GitHub Actions
-**IoT:** ESP32 · MQTT · Arduino
+- **Lenguajes:** Java · Python · Go · JavaScript · TypeScript · C · C++ · C#
+- **Frontend:** React · Angular · Ionic · HTML/CSS
+- **Backend:** Node.js · Express · FastAPI
+- **Datos:** MySQL · MongoDB · SQL
+- **Cloud y DevOps:** Docker · Kubernetes · ArgoCD · Terraform · AWS · GCP · GitHub Actions
+- **IoT:** ESP32 · MQTT · Arduino
